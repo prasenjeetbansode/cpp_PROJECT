@@ -1,0 +1,22 @@
+C:\Users\prasenjeet\source\repos\cpp_PROJECT\cpp_PROJECT\bin\Debug\cpp_PROJECT.exe.config
+C:\Users\prasenjeet\source\repos\cpp_PROJECT\cpp_PROJECT\bin\Debug\cpp_PROJECT.exe
+C:\Users\prasenjeet\source\repos\cpp_PROJECT\cpp_PROJECT\bin\Debug\cpp_PROJECT.pdb
+C:\Users\prasenjeet\source\repos\cpp_PROJECT\cpp_PROJECT\obj\Debug\cpp_PROJECT.csprojAssemblyReference.cache
+C:\Users\prasenjeet\source\repos\cpp_PROJECT\cpp_PROJECT\obj\Debug\cpp_PROJECT.Login.resources
+C:\Users\prasenjeet\source\repos\cpp_PROJECT\cpp_PROJECT\obj\Debug\cpp_PROJECT.Properties.Resources.resources
+C:\Users\prasenjeet\source\repos\cpp_PROJECT\cpp_PROJECT\obj\Debug\cpp_PROJECT.csproj.GenerateResource.cache
+C:\Users\prasenjeet\source\repos\cpp_PROJECT\cpp_PROJECT\obj\Debug\cpp_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\prasenjeet\source\repos\cpp_PROJECT\cpp_PROJECT\obj\Debug\cpp_PROJECT.exe
+C:\Users\prasenjeet\source\repos\cpp_PROJECT\cpp_PROJECT\obj\Debug\cpp_PROJECT.pdb
+C:\Users\prasenjeet\source\repos\cpp_PROJECT\cpp_PROJECT\obj\Debug\cpp_PROJECT.home.resources
+C:\Users\Public\backup of hdd\cpp_PROJECT\cpp_PROJECT\bin\Debug\AITUC.mdb
+C:\Users\Public\backup of hdd\cpp_PROJECT\cpp_PROJECT\bin\Debug\cpp_PROJECT.exe.config
+C:\Users\Public\backup of hdd\cpp_PROJECT\cpp_PROJECT\bin\Debug\cpp_PROJECT.exe
+C:\Users\Public\backup of hdd\cpp_PROJECT\cpp_PROJECT\bin\Debug\cpp_PROJECT.pdb
+C:\Users\Public\backup of hdd\cpp_PROJECT\cpp_PROJECT\obj\Debug\cpp_PROJECT.csprojAssemblyReference.cache
+C:\Users\Public\backup of hdd\cpp_PROJECT\cpp_PROJECT\obj\Debug\cpp_PROJECT.home.resources
+C:\Users\Public\backup of hdd\cpp_PROJECT\cpp_PROJECT\obj\Debug\cpp_PROJECT.Login.resources
+C:\Users\Public\backup of hdd\cpp_PROJECT\cpp_PROJECT\obj\Debug\cpp_PROJECT.Properties.Resources.resources
+C:\Users\Public\backup of hdd\cpp_PROJECT\cpp_PROJECT\obj\Debug\cpp_PROJECT.csproj.GenerateResource.cache
+C:\Users\Public\backup of hdd\cpp_PROJECT\cpp_PROJECT\obj\Debug\cpp_PROJECT.exe
+C:\Users\Public\backup of hdd\cpp_PROJECT\cpp_PROJECT\obj\Debug\cpp_PROJECT.pdb
